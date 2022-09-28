@@ -1,1 +1,1 @@
-# BulkyBook - MVC course project
+# BulkyBook - MVC course project.
